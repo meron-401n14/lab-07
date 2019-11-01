@@ -6,7 +6,7 @@
 ### Author: Meron 
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/meron-401n14/lab-07/pull/1)
 * [travis](http://xyz.com)
 
 
