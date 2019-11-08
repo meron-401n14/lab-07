@@ -7,7 +7,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/meron-401n14/lab-07/pull/1)
-* [travis](http://xyz.com)
+* [travis](https://www.travis-ci.com/meron-401n14/lab-07)
 
 
 #### Documentation
@@ -16,32 +16,23 @@
 * [styleguide](http://xyz.com) (React assignments)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+#### `people-routes.js`, `teams-routes.js`
 
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-  
+* Endpoint: `/people` `/teams/`
+  * Returns a JSON object with records in it.
 #### Tests
-* How do you run tests?
-* What assertions were made?
+* npm test
+* What assertions were made? request for end point people, 
 * What assertions need to be / should be made?
 
 #### UML
-Link to an image of the UML for your application and response to events
+* ![UML](API-endpoint-UML.jpg)
+
+
+
+
+
+  
 
