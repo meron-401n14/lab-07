@@ -11,11 +11,12 @@
 
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [api docs](http://localhost:3100/api-docs#/default) (/api-docs.json)
+* [jsdoc](comments only )
+* 
 
 ### Modules
+
 #### `people-routes.js`, `teams-routes.js`
 
 #### Running the app
@@ -28,7 +29,7 @@
 * What assertions need to be / should be made?
 
 #### UML
-* ![UML](API-endpoint-UML.jpg)
+* ![UML](lab-07Api.jpg)
 
 
 
